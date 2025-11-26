@@ -3,7 +3,6 @@ layout: default
 title: April Wang - Portfolio
 permalink: /projects/
 ---
-{% comment %}
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
@@ -16,4 +15,3 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
-{% endcomment %}
