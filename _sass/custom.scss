@@ -127,6 +127,24 @@ footer {
   }
 }
 
+.inline-url {
+  max-width: 350px;
+  margin: 0px 25px 10px 25px;
+  vertical-align: top;
+
+  &-l {
+    @extend .inline-url;
+    float: left;
+    margin-left: 0;
+  }
+
+  &-r {
+    @extend .inline-url;
+    float: right;
+    margin-right: 0;
+  }
+}
+
 .profile-image, .project-image {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
