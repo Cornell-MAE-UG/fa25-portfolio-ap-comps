@@ -16,6 +16,10 @@ $text-color: #333;
   $primary-color: #925959;
   $background-color: #f6f1e0;
   $text-color: #1e0101;
+} @else if $color_scheme == 'pink_desert' {
+  $primary-color: #92597d;
+  $background-color: #fffae3;
+  $text-color: #1e0101;
 }
 
 
@@ -219,4 +223,28 @@ footer {
   transform: translateX(-4px);
 }
 
+/* Style 2 column */
+.row-flex {
+  display: flex; /* Makes the child elements flex items */
+}
 
+.column-flex {
+  flex: 50%; /* Each column takes up equal available space */
+  padding: 10px;
+}
+
+/* Style video thumbnails that are links */
+.video-link a img {
+  max-width: 350px;
+  margin: 0px 25px 10px 25px;
+  vertical-align: top;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  transition: transform 0.3s ease; /* Add smooth transition for effects */
+}
+
+/* Style the video thumbnails when the user hovers over the link */
+.video-link a:hover img {
+  border-color: #007bff; /* Change border color on hover */
+  transform: scale(1.05); /* Slightly enlarge the image on hover */
+}
