@@ -20,7 +20,7 @@ Motivated mechanical engineering student with strong academics and project exper
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.007/4.0 | Graduation: 05, 2027
+  GPA: 4.016/4.0 | Graduation: 05, 2027
 
 - **Ashland High School**  
   *High School Diploma*  
@@ -29,9 +29,10 @@ Motivated mechanical engineering student with strong academics and project exper
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, Microsoft Office
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, Microsoft Office, ANSYS Mechanical 
+- **Programming:** Python, MATLAB
+- **Tools:** 3D printing, laser cutting, machine shop trained 
+- **Test Equipment:** Oscilloscope, multimeter, function generator
 
 ---
 
@@ -55,7 +56,7 @@ Motivated mechanical engineering student with strong academics and project exper
 #### Work Experience
 - **[Cornell University] - Grader**  
   [Aug, 2025] - [Dec, 2025]  
-  - Grade homework and quizzes for ENGRD 2210: Thermodynamics
+  - Graded homework and quizzes for ENGRD 2210: Thermodynamics
 
 - **[Organic Robotics Lab (Cornell University)] - Summer Research Assistant**  
   [May, 2025] - [Aug, 2025]  
