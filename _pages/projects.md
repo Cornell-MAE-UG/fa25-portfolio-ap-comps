@@ -1,6 +1,6 @@
 ---
 layout: default
-title: April Wang - Portfolio
+title: April Wang - Projects
 permalink: /projects/
 ---
 <div class="gallery-container">
