@@ -3,7 +3,7 @@ layout: project
 title: Airmar Mount
 description: CUSail 23-24 Airmar Mount
 technologies: [SolidWorks]
-image: /assets/images/ballast-drawing.png
+image: /assets/images/CUSail/mount-cad.png
 ---
 
 In my first year on CUSail (2023-2024), one other new member and I were given an onboarding project of designing a mount for an Airmar sensor. We modeled it on SolidWorks to 3D-print and attached it to the boat.
@@ -13,7 +13,7 @@ The main design considerations for the location and design of the mount included
 This was my first official CAD project and a great learning experience for 3D-modeling.
 
 <div style="clear: both"></div>
-![Final mount]({{ "/assets/images/CUSail/ballast-drawing.png" | relative_url }}){: .inline-image-l style="width: 275px; margin-right: 25px"}
+![Final mount]({{ "/assets/images/CUSail/final-mount.png" | relative_url }}){: .inline-image-l style="width: 275px; margin-right: 25px"}
 
 ![Mount attached to boat]({{ "/assets/images/CUSail/mount-attached-to-boat.png" | relative_url }}){: .inline-image-l style="width: 275px; margin-right: 0"}
 
